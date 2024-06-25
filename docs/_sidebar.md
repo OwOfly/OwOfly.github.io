@@ -2,6 +2,7 @@
 - :memo: 目录
     - 死磕Spring 🍃
         - [第1节：IoC 之深入理解 Spring IoC](/md/spring/第1节：IoC之深入理解SpringIoC.md)
+        - [第2节：IoC 之 Spring 统一资源加载策略](/md/spring/第2节：IoC之Spring统一资源加载策略.md)
     - 杂记 📓
         - [功能网站](/md/other-document/功能网站.md)
     - IDEA Plugin 开发手册 🔥
